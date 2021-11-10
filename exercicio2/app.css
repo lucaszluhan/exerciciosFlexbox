@@ -1,0 +1,28 @@
+body {
+   height: 100vh;
+   display: flex;
+   justify-content: space-between;
+   flex-direction: column;
+}
+#laranja {
+   height: 200px;
+   width: 200px;
+   border-radius: 50%;
+   border: 2px solid black;
+   background-color: orange;
+}
+.azul {
+   height: 200px;
+   width: 200px;
+   border: 2px solid black;
+   background-color: mediumblue;
+}
+
+/* body div:nth-child(1) {
+   display: flex;
+   justify-content: right;
+}
+body div:nth-child(2) {
+   display: flex;
+   justify-content: space-between;
+} */
